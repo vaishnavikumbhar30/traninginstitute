@@ -1,0 +1,240 @@
+
+
+#real .carousel-item img {  
+  object-fit: cover;
+  overflow: hidden;
+  height:80vh;
+  width: 100%;
+}
+
+/* nav bar */
+.nav-link{
+    color: rgb(255, 253, 253);
+     font-size: 20px; 
+    margin-left: 30px;
+} 
+    .banner {
+
+    text-align: center;
+    background: rgba(0, 0, 0, 0.62);
+    margin: 11% auto 0;
+    border-radius: 15px;
+    padding: 1em 1em 1.9em 1em;
+          }
+  /* popular heights */
+  .himg{
+    height: 230px;
+  }
+  
+.img4{
+    transition: transform .2s;
+    margin:0 auto;
+    border-radius: 10px;
+    
+}
+.img4:hover{
+    transform:scale(1.2);
+}
+
+
+  /* footer */
+  body1 {
+    font-family: Arial, sans-serif;
+    background-color: #fffefe;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .containerCon {
+    max-width: 600px;
+    margin:30px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-bottom: 8px;
+    color: #555;
+  }
+  
+  input, textarea {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* top bar */
+ #myBtn {
+    display: none;
+    position: fixed;
+    bottom: 40px;
+    right: 10px;
+   
+    border: none;
+    outline: none;
+   
+    color: rgb(8, 118, 26);
+ 
+  }  
+
+/* service */
+.feature-h {
+  margin-bottom: 30px;
+}
+.feature-h .wrap-icon {
+ 
+   flex: 0 0 80px; 
+  height: 80px;
+  background: #efefef;
+  color: #000;
+  position: relative;
+  border-radius: 50%;
+  width: 80px;
+ 
+}
+
+.span1 {
+  background: #0066b2;
+  display: block;
+  width: 62px;
+  height: 4px;
+   margin: 0 auto;}
+   
+   /*  */
+   tri{
+    height: 250px;
+    width: 550px;
+  
+}/* nav bar */
+.nav-link{
+    color: rgb(255, 253, 253);
+     font-size: 20px; 
+    margin-left: 30px;
+} 
+
+     .span1 {
+       background: #0066b2;
+       display: block;
+       width: 62px;
+       height: 4px;
+        margin: 0 auto;
+    }
+    .banner {
+        /* position: relative; */
+          text-align: center;
+          background: rgba(0, 0, 0, 0.62);
+           margin: 11% auto 0;
+
+         border-radius: 15px;
+          padding: 1em 1em 1.9em 1em;
+          }
+  /* popular heights */
+  .himg{
+    height: 250px;
+  }
+
+
+  /* footer */
+  body1 {
+    font-family: Arial, sans-serif;
+    background-color: #fffefe;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .containerCon {
+    max-width: 600px;
+    margin:30px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-bottom: 8px;
+    color: #555;
+  }
+  
+  input, textarea {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  
+  /* top bar */
+ #myBtn {
+    display: none;
+    position: fixed;
+    bottom: 40px;
+    right: 10px;
+   
+    border: none;
+    outline: none;
+   
+    color: rgb(8, 118, 26);
+ 
+  }  
+
+/* service */
+.feature-h {
+  margin-bottom: 30px;
+}
+.feature-h .wrap-icon {
+ 
+   flex: 0 0 80px; 
+  height: 80px;
+  background: #efefef;
+  color: #000;
+  position: relative;
+  border-radius: 50%;
+  width: 80px;
+ 
+}
+
+.span1 {
+  background: #0066b2;
+  display: block;
+  width: 62px;
+  height: 4px;
+   margin: 0 auto;}
+   
+   /*  */
+   tri{
+    height: 250px;
+    width: 550px;
+  
+}
